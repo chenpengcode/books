@@ -17,19 +17,19 @@
 - Java编程思想 [点击下载](https://pan.baidu.com/s/1oQcpsaPbxZzjqzFT8ffc7A)  密码:pvks
 - Java8实战 [点击下载](https://pan.baidu.com/s/1PV4aTFAYU_Sitn9ok-hxDA)    密码:4kc3
 - Java核心技术卷I (原书第9版) [点击下载](https://pan.baidu.com/s/1QJ9yLwavzwM2U8flrsa1dg)  密码:l0se
-> 其他百本Java资源[点击下载]() 到上面的公众号回复 1011 获取下载密码。
+> 其他百本Java资源 [点击下载]()，到上面的公众号回复 1011 获取下载密码。
 
 # 算法
 
 - 数据结构与算法Java版 [点击下载](https://pan.baidu.com/s/158SWu_uGgENDOiYi9vaI9A) 密码:cz2y
 - 算法第4版 [点击下载](https://pan.baidu.com/s/1MK5-RH2vTNB3jUxVwVpOXA) 密码:v4ge
-> 其他百本算法资源[点击下载]() ，到上面的公众号回复 1031 获取下载密码。
+> 其他百本算法资源 [点击下载]()，到上面的公众号回复 1031 获取下载密码。
 
 # 设计模式
 
 - 设计模式解析 [点击下载](https://pan.baidu.com/s/1Hnt4E-bjTfOzoYMPuCfRVQ) 密码:gb9y
 - 设计模式之禅 [点击下载](https://pan.baidu.com/s/15P2ZlhUE5tTsomwmLYhw8w)  密码:klhe
-> 其他百本设计模式资源[点击下载]() 到上面的公众号回复 1021 获取下载密码。
+> 其他百本设计模式资源[点击下载]()，到上面的公众号回复 1021 获取下载密码。
 
 # 正则表达式
 - 正则表达式必知必会 [点击下载](https://pan.baidu.com/s/1sCbJ0pDJjNrakkBGL5UeBw) 密码:wzwq
