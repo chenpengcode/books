@@ -33,11 +33,11 @@
 
 # 正则表达式
 - 正则表达式必知必会 [点击下载](https://pan.baidu.com/s/1sCbJ0pDJjNrakkBGL5UeBw) 密码:wzwq
-> 其他超全正则表达式学习资料，到上面的公众号回复 1041 获取下载密码。
+> 其他超全正则表达式学习资料 [点击下载]()，到上面的公众号回复 1041 获取下载密码。
 
 # 数据库
 - 七周七数据库 [点击下载](https://pan.baidu.com/s/1NaTTmLAmJ59VnJwYsNp1ig) 密码:h21h
-> 其他数据库全部资源[点击下载]()，到上面的公众号回复 1051 获取下载密码。
+> 其他数据库全部资源 [点击下载]()，到上面的公众号回复 1051 获取下载密码。
 
 # 面试
 - java面试宝典 [点击下载](https://pan.baidu.com/s/13KlGkCzWa5Mi6lbqDVbxMw) 密码:qwsm
