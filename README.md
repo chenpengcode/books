@@ -9,7 +9,7 @@
 
 > 扫描下方二维码回复“小浩算法”即可下载:
 
-![avatar](./小浩算法.jpeg)
+![avatar](https://github.com/ththinking/books/blob/master/%E5%B0%8F%E6%B5%A9%E7%AE%97%E6%B3%95.jpeg)
 
 
 # java
